@@ -1,0 +1,1 @@
+This repository contains execrises from the Udemy course : [React & Typescript Chrome Extension Development[2022]](https://www.udemy.com/course/chrome-extension/)  by [Jason Xian](https://www.udemy.com/user/jason-xian-2/)
